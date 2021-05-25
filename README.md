@@ -1,9 +1,11 @@
 Match-trade technical task Spring Boot Application
 
-Installation
+Installation:
 
 Requirements:
+
 Java 11+
+
 Apache Maven 3.6.3+
 
 To start application with default instruments subscription for ticker channel invoke:
